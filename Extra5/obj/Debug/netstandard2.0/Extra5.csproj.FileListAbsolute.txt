@@ -1,0 +1,15 @@
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.csproj.AssemblyReference.cache
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.AssemblyInfoInputs.cache
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.AssemblyInfo.cs
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.csproj.CoreCompileInputs.cache
+D:\Apps\Extra5\Extra5\bin\Debug\netstandard2.0\Extra5.deps.json
+D:\Apps\Extra5\Extra5\bin\Debug\netstandard2.0\Extra5.dll
+D:\Apps\Extra5\Extra5\bin\Debug\netstandard2.0\Extra5.pdb
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.dll
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\refint\Extra5.dll
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\Extra5.pdb
+D:\Apps\Extra5\Extra5\obj\Debug\netstandard2.0\ref\Extra5.dll
